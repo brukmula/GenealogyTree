@@ -1,0 +1,29 @@
+{
+  "name": "Abraham",
+  "children": [
+    {
+      "name": "Isaac",
+      "children": [
+        {
+          "name": "Jacob",
+          "children": [
+            {
+              "name": "Judah",
+              "children": [
+                {
+                  "name": "Perez",
+                  "children": [
+                    {}
+                  ]
+                },
+                {
+                  "name": "Zerah"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
